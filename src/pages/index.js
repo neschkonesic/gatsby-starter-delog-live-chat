@@ -21,6 +21,7 @@ const IndexPage = ({
       <Helmet>
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
+       <script src="//code.tidio.co/wv6pafxw3l1577lsu8nhrp47ibwslvtk.js" async></script> 
       </Helmet>
       <HeroHeader/>
       <h2>Blog Posts &darr;</h2>
